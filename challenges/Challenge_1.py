@@ -2,7 +2,7 @@ import numpy as np
 
 
 """
-EN este caso el concepto de Byaes es utilizado para evluar en base a 3 claves:
+EN este caso el concepto de Bayes es utilizado para evluar en base a 3 claves:
 
     1. La probabilidad previa a la prueba de que alguien tenga M (PRIOR)
     2. Si el paciente tiene M que tan probable es que la prueba diga que tiene M (lIKEHOLD)
