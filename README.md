@@ -1,2 +1,2 @@
-# Chalenges
+# Challenges
 Challenges y tareas complemetarias
