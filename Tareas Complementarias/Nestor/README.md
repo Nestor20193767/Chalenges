@@ -1,3 +1,3 @@
 # Tareas Complementarias
 1. [Tarea 1](https://github.com/Nestor20193767/Chalenges/blob/main/Tareas%20Complementarias/Nestor/Tarea1.py) : Desarrollo de probablidad utilizando el teorema de Baye e implementacion de una funcion para calcular la media y la varianza de una señal
-2. [Tarea 3]() :Analicis de los fundamentos teóricos de las Máquinas de Vectores de Soporte (SVM), enfocándose en el impacto del hiperparámetro C (margen blando) y la aplicación del kernel trick para clasificar datos biomédicos complejos y no lineales evitando el sobreajuste.
+2. [Tarea 3](https://github.com/Nestor20193767/Chalenges/blob/main/Tareas%20Complementarias/Nestor/Tarea_3.pdf) :Analicis de los fundamentos teóricos de las Máquinas de Vectores de Soporte (SVM), enfocándose en el impacto del hiperparámetro C (margen blando) y la aplicación del kernel trick para clasificar datos biomédicos complejos y no lineales evitando el sobreajuste.
